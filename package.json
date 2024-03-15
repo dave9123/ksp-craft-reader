@@ -1,0 +1,23 @@
+{
+  "name": "ksp-craft-reader",
+  "version": "0.0.0",
+  "description": "Reader for Kerbal Space Program Craft",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dave9123/ksp-craft-reader.git"
+  },
+  "author": "dave9123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dave9123/ksp-craft-reader/issues"
+  },
+  "homepage": "https://github.com/dave9123/ksp-craft-reader#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
