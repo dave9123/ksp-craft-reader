@@ -1,6 +1,6 @@
 {
   "name": "ksp-craft-reader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Reader for Kerbal Space Program Craft",
   "main": "index.js",
   "scripts": {
